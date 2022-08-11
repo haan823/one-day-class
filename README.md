@@ -24,7 +24,7 @@
 
 # **:computer: Use Case / 유저 시나리오**
 
-몇 가지 대표 케이스만 기입되어 있습니다. 모든 케이스를 확인하려면 [WIKI - Use Case / 시나리오](https://github.com/f-lab-edu/one-day-class/wiki/Use-Case---%EC%9C%A0%EC%A0%80-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4)를 참고해주세요.
+몇 가지 대표 케이스만 기입되어 있습니다. 모든 케이스를 확인하려면 [WIKI - Use Case / 시나리오](https://github.com/haan823/one-day-class/wiki/Use-Case,-%EC%9C%A0%EC%A0%80-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4)를 참고해주세요.
 
 ## **1. GUEST**
 
@@ -110,7 +110,7 @@
 
 # **:pushpin: Flow Chart**
 
-몇 가지 대표 케이스만 기입되어 있습니다. 모든 케이스를 확인하려면 [WIKI - Flow Chart](https://github.com/f-lab-edu/one-day-class/wiki/Flow-Chart)를 참고해주세요.
+몇 가지 대표 케이스만 기입되어 있습니다. 모든 케이스를 확인하려면 [WIKI - Flow Chart](https://github.com/haan823/one-day-class/wiki/Flow-Chart)를 참고해주세요.
 
 ## **1. GUEST**
 ![클래스 신청](https://user-images.githubusercontent.com/57613635/168810165-929e5df9-dd53-4334-9623-f3f78cd77509.png)
@@ -126,7 +126,7 @@
 ![HOST 가입 심사](https://user-images.githubusercontent.com/57613635/168810213-c6adc674-f0eb-4c01-a78f-e60f3224aad8.png)
 
 # **:hammer: 기능 구조도**
-기능 구조도는 [WIKI - 기능 구조도](https://github.com/f-lab-edu/one-day-class/wiki/%EA%B8%B0%EB%8A%A5-%EA%B5%AC%EC%A1%B0%EB%8F%84)를 참고해주세요.
+기능 구조도는 [WIKI - 기능 구조도](https://github.com/haan823/one-day-class/wiki/%EA%B8%B0%EB%8A%A5-%EA%B5%AC%EC%A1%B0%EB%8F%84)를 참고해주세요.
 
 # **:flags: 메뉴 구조도**
 ![GUEST 메뉴 구조도](https://user-images.githubusercontent.com/57613635/169255926-65137500-4c08-4729-a0ea-8da86edb832a.png)
